@@ -1,11 +1,4 @@
-<p align="center">
-  <img
-    src="./profile.jpg"
-    width="120"
-    height="120"
-    alt="Shaik Sumayya Ruhi"
-  />
-</p>
+
 
 <p align="center">
   <img
